@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WOL &amp; Shutdown</string>
+    <string name="widget_description">WOL Shutdown Widget</string>
+</resources>
